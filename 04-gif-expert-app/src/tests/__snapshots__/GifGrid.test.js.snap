@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en GifGrid debe mostrar items cuando se cargan imagenes useFetc 1`] = `
+<Fragment>
+  <h3
+    className="animate__animated animate__fadeIn"
+  >
+    gtav
+  </h3>
+  <div
+    className="card-grid"
+  >
+    <GifGridItem
+      id="ABC"
+      key="ABC"
+      title="titulo"
+      url="http://www.w3.org/1999/"
+    />
+    <GifGridItem
+      id="123"
+      key="123"
+      title="titulo"
+      url="http://www.w3.org/1999/"
+    />
+  </div>
+</Fragment>
+`;

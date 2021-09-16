@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tarea Debe incrementar con el boton +1 1`] = `
+<Fragment>
+  <h1>
+    CounterApp
+  </h1>
+  <h2>
+    0
+  </h2>
+  <button
+    onClick={[Function]}
+  >
+    +1
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    Reset
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    -1
+  </button>
+</Fragment>
+`;
+
+exports[`Tarea Debe mostrar correctamente counter app 1`] = `
+<Fragment>
+  <h1>
+    CounterApp
+  </h1>
+  <h2>
+    0
+  </h2>
+  <button
+    onClick={[Function]}
+  >
+    +1
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    Reset
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    -1
+  </button>
+</Fragment>
+`;
